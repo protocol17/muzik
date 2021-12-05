@@ -1,0 +1,72 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+hr{
+  height: 12px;
+}
+
+/* Navigation Bar */
+.container-fluid{
+  padding:3%;
+  background-color: #2A0944;
+}
+.navbar-brand{
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5rem;
+}
+.nav-item{
+ font-family: 'Montserrat', sans-serif;
+ font-weight: bold;
+}
+/*heading & title*/
+.title-img{
+  width:100%;
+}
+.Big-heading{
+  padding:20%;
+  color:white;
+  text-align: center;
+}
+
+/* FAQ */
+.FAQ-Section{
+  padding:12%;
+  text-align:center;
+  background-color: #3B185F;
+}
+
+/*Contact Us*/
+.contact-us-box{
+  padding:12%;
+  text-align:center;
+  background-color: #2A0944;
+}
+.Contact-us-heading{
+  margin-bottom: 3%;
+}
+.btn{
+border: 1px solid;
+}
+
+/* Footer */
+.footer-box{
+    background-color:#3B185F;
+    padding: 7%;
+    text-align:center;
+}
+
+.footer-icons{
+  margin: 0 5px 5px 0;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Questions */
+.ques{
+  margin:3%;
+}
+.ans{
+  margin:3%;
+}

@@ -1,0 +1,70 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color:#fff;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Title and Navigation */
+  .container-fluid{
+    padding:3%;
+    background-color: #1F1D36;
+  }
+
+.navbar-brand{
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5rem;
+}
+/*Quotes*/
+.quotes-class{
+  text-align: center;
+  padding: 10%;
+    background-color: #3F3351;
+}
+.Quotes-Heading{
+  font-family: 'Sacramento', cursive;
+  font-size: 15rem;
+  margin: 0.2%;
+  padding: 0;
+}
+.Quotes-desc{
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Events */
+.event-sec-heading{
+  text-align: center;
+  /* padding:4%; */
+  margin: 6% 12% 12% 12%;
+}
+.event-class{
+    background-color: #1F1D36;
+    padding: 5%;
+}
+.event-detail{
+  text-align: left;
+}
+.event-photo{
+  text-align: center;
+}
+.concert-img{
+  width:15%;
+}
+.row{
+  margin:2%;
+}
+/*Footer*/
+.footer-box{
+    background-color: #3F3351;
+    padding: 5%;
+    text-align:center;
+}
+
+.footer-icons{
+  margin: 0 5px 5px 0;
+  text-decoration: none;
+  color: inherit;
+}

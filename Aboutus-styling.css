@@ -1,0 +1,92 @@
+body{
+  text-align: center;
+  margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color:#fff;
+}
+/*Navigation Bar*/
+.container-fluid{
+  padding:3%;
+  background-color:#1F1D36;
+}
+
+.navbar-brand{
+font-family: 'Sacramento', cursive;
+font-size: 4rem;
+}
+.nav-link{
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+/* Muzik */
+.muzik{
+  background-color:#3F3351;
+  padding: 19% 29% 19% 29%;
+}
+.Muzik-Heading{
+  font-family: 'Sacramento', cursive;
+  font-size: 10rem;
+}
+/* Heading Section*/
+.About-Us{
+  background-color:#1F1D36;
+  margin-top: 0;
+  padding: 20%;
+  text-align: center;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 4.5rem;
+    margin-bottom: 1px;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  margin-top: 1px;
+  font-weight: bold;
+}
+
+/* Mentor */
+#Mentor{
+    background-color:#3F3351;
+    padding: 7% 5% 7% 5%;
+}
+.Mentor-section{
+  margin-bottom: 30px;
+}
+.BraveenSir-Img{
+  width: 25%;
+}
+.mentor-comp{
+  padding: 2% 2% 2% 2%;
+
+
+}
+
+/*Team*/
+#team{
+  background-color:#1F1D36;
+  padding: 7% 5% 7% 5%;
+}
+.testimonial-text{
+  font-weight: bold;
+}
+.Team-heading{
+  margin-bottom: 15px;
+
+}
+.testimonial-image{
+  width: 15%;
+}
+
+/* footer section */
+#footer{
+    background-color:#3F3351;
+    padding: 5%
+}
+
+.footer-icons{
+  margin: 0 5px 5px 0;
+  text-decoration: none;
+  color: inherit;
+}
